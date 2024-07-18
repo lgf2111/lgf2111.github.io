@@ -51,11 +51,18 @@
   ],
   "awards": [
     {
-      "title": "2nd Place - Code Overflow Hackathon",
+      "title": "2nd Place in Code Overflow Hackathon",
       "date": "2022-09-01",
       "awarder": "NYP SIT Club",
       "url": "https://media.licdn.com/dms/image/D562DAQGMQut-JaF4Hg/profile-treasury-image-shrink_800_800/0/1721226298954?e=1721890800&v=beta&t=PG0rRzayX0Z07BMinYu-UocR3fNfHcwHMKDIthNPFDk",
       "summary": "Our team of four won the CodeOverflow Hackathon with our web app, Energy Calculator. Built with Flask, it helps households track energy usage and provides a dashboard with charts and eco-friendly recommendations. This award showcases our commitment to sustainable technology solutions."
+    },
+    {
+      "title": "i.Code.i.Tell 2022 Certificate Of Participation Silver Award",
+      "date": "2022-06-01",
+      "awarder": "NYP SIT",
+      "url": "https://media.licdn.com/dms/image/D562DAQE5UbiRZGZLpQ/profile-treasury-image-shrink_800_800/0/1721228415413?e=1721919600&v=beta&t=q8F9JTtQ4dnjDEBXfkDHH7zN2_XNLdM7gJB-lzvAQew",
+      "summary": "Awarded for the proposal 'Just Menu', a web application designed to aggregate and digitize menus from various food stalls across Singapore, enabling customers to access menus anytime, anywhere, and allowing vendors to upload and manage their menus online. This innovative solution aimed to reduce wait times, prevent over/undercharging, and provide a universal platform for menu access."
     }
   ],
   "certificates": [
